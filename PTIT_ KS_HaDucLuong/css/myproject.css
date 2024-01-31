@@ -1,0 +1,18 @@
+div {
+    
+    justify-content: center;
+    text-align: center;
+
+}
+
+div .ctn{
+    width: 60px;
+    height: 30px;
+    background-color: antiquewhite;
+    color: green !important;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 700px
+}
